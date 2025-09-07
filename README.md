@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Momonikpour
-- 👀 I’m interested in ...nothing
-- 🌱 I’m currently learning ...nothing
+- 👋 Hi, I’m Mohammad Nikpour 
+- 👀 I’m interested in ...Developing
+- 🌱 I’m currently learning ...Ml/Ai
 - 💞️ I’m looking to collaborate on ...nothing
-- 📫 How to reach me ...u can't reach me
+- 📫 How to reach me ...mohammadnikpour123@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...no fun facts only real facts
 
